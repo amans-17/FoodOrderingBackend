@@ -1,0 +1,4 @@
+latitude=26.81
+longitude=80.99
+latitude=11.7
+longitude=77.9
